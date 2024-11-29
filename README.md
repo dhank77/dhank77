@@ -2,16 +2,18 @@
 
 I'm a passionate **Fullstack Developer** with expertise in building modern web, mobile, and AI-powered applications. 🚀  
 
-## 🛠️ Technologies & Tools  
-- **Frontend:** React, Flutter  
-- **Backend:** PHP, CodeIgniter, Laravel, Node.js, Hono  
-- **Databases:** MySQL, PostgreSQL  
-- **AI/ML Tools:** Python, Pandas, NumPy, Matplotlib, Scikit-Learn  
+## 🌐 Connect with Me  
+<p>
+  <a href="https://www.linkedin.com/in/m-hamdani-ilham-latjoro"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:hamdanilatjoro@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat&logo=gmail" alt="Email"></a>
+  <a href="https://www.youtube.com/c/hiedukasi"><img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube" alt="YouTube"></a>
+</p>
 
-## 🤖 Interested in:  
-- Artificial Intelligence (AI)  
-- Machine Learning (ML)  
-- Building intelligent and data-driven applications  
+## 🛠️ Technologies & Tools  
+- **Frontend:** React, Next.js, Flutter  
+- **Backend:** PHP, CodeIgniter, Laravel, Hono, Node.js, Bun   
+- **Databases:** MySQL, PostgreSQL, SqlServer, Sqlite
+- **AI/ML Tools:** Python, Pandas, NumPy, Matplotlib, Scikit-Learn, Langchain  
 
 ## 🚀 Featured Projects  
 - [**MyCanva**](https://github.com/dhank77/mycanva)  
@@ -33,7 +35,4 @@ I'm a passionate **Fullstack Developer** with expertise in building modern web, 
 ![Dhank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhank77&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhank77&layout=compact&theme=radical)  
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/m-hamdani-ilham-latjoro/)  
-[![Email](https://img.shields.io/badge/Email-black?style=flat&logo=gmail)](mailto:hamdanilatjoro@gmail.com)
 
