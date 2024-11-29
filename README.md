@@ -16,16 +16,16 @@ I'm a passionate **Fullstack Developer** with expertise in building modern web, 
 - **AI/ML Tools:** Python, Pandas, NumPy, Matplotlib, Scikit-Learn, Langchain  
 
 ## 🚀 Featured Projects  
-- [**MyCanva**](https://github.com/dhank77/mycanva)  
+- [**MyCanva - Nextjs and Hono**](https://github.com/dhank77/mycanva)  
   A Canva clone with customizable designs and user-friendly tools.  
 
-- [**Laravel Portfolio**](https://github.com/dhank77/laravel-portofolio)  
+- [**Portfolio - Laravel and Livewire**](https://github.com/dhank77/laravel-portofolio)  
   A personal portfolio built with Laravel and Livewire.  
 
-- [**Laravel Blog (Ahwal Syaksiyah)**](https://github.com/dhank77/Laravel-blog-ahwal-syaksiyah)  
+- [**Campus website - Laravel**](https://github.com/dhank77/Laravel-blog-ahwal-syaksiyah)  
   A campus website for academic-related content and blogs.  
 
-- [**DJIRS**](https://github.com/dhank77/DJIRS)  
+- [**DJIRS - Django, React, Inertia, & Shadcn-Ui**](https://github.com/dhank77/DJIRS)  
   A base template using Django, Inertia.js, React, and ShadCN UI.  
 
 - [**Cat and Dog Recognition**](https://github.com/dhank77/cat-and-dog-recognition)  
